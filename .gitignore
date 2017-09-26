@@ -1,9 +1,6 @@
 ﻿# Ignore folder .vs
 **/.vs/
 
-# Ignore all file .sln
-*.sln
-
 # Ignore folder bin
 **/bin/
 
